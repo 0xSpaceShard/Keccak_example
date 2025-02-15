@@ -28,7 +28,7 @@
         "@typechain/hardhat": "^3.0.0",
         "dotenv": "^10.0.0",
         "ethereum-waffle": "^3.4.0",
-        "hardhat": "^2.6.1",
+        "hardhat": "^2.11.0",
         "hardhat-contract-sizer": "^2.0.3",
         "hardhat-deploy": "^0.9.0",
         "hardhat-gas-reporter": "^1.0.4",
@@ -43,8 +43,8 @@
         "@openzeppelin/contracts": "^4.8.1",
         "@openzeppelin/contracts-upgradeable": "^4.8.1",
         "@openzeppelin/hardhat-upgrades": "^1.22.1",
-        "hardhat": "2.10.1",
-        "starknet": "^4.9.0"
+        "hardhat": "2.11.0",
+        "starknet": "^5.0.0"
     },
     "scripts": {
         "compile": "hardhat starknet-compile",
